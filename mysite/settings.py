@@ -25,7 +25,7 @@ SECRET_KEY = 'h23q^q)%udyw@-rao4(jx=xr)pcb61@bb0ycazx4=!%l(t9&68'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['lit-headland-90378.herokuapp.com']
+ALLOWED_HOSTS = ['lit-headland-90378.herokuapp.com','powerful-coast-51511.herokuapp.com']
 
 
 # Application definition
